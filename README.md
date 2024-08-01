@@ -1,4 +1,4 @@
-**Project Management Dashboard**
+#Project Management Dashboard
 
 Overview
 This Power BI dashboard simplifies project management by providing a centralized view of your project data. It allows you to easily filter through information and monitor key metrics, making better-informed decisions and streamlining your workflow.
